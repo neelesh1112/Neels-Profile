@@ -287,5 +287,10 @@
     }
     .modal {
       width: 80vw;
+      scale:0;
     }
+      
+   .active {
+    scale: 1;
+  }
   }
